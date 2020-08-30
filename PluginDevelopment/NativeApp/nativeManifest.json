@@ -1,0 +1,7 @@
+{
+    "name": "native_app",
+    "description": "communicates with the browser extension",
+    "path": "C:\\Users\\yeshasyesodharan\\Documents\\Udemy\\Javascript\\JonasSchmedtmann\\complete-javascript-course-master\\MyPracticeCode\\JavascriptPractice\\PluginDevelopment\\NativeApp\\native_app.bat",
+    "type": "stdio",
+    "allowed_extensions": ["addonexample@example.org"]
+}

@@ -1,0 +1,1 @@
+web-ext run --firefox-profile=rathyammaar@gmaildotcom --start-url=https://www.youtube.com/playlist?list=WL
